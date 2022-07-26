@@ -1,0 +1,254 @@
+2022-07-22 18:08:28:828 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-22 18:09:18:918 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-22 18:09:18:918 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-22 18:09:45:945 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-22 18:09:45:945 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-22 18:10:01:101 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-22 18:10:01:101 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-22 18:10:27:1027 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-22 18:10:27:1027 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster.yk6ez.mongodb.net[39m
+2022-07-22 18:10:27:1027 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-22 18:10:38:1038 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-22 18:10:38:1038 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:22:51:2251 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 09:22:51:2251 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 09:22:51:2251 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:24:56:2456 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 09:24:56:2456 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 09:24:56:2456 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:27:24:2724 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 09:27:24:2724 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 09:27:24:2724 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:43:07:437 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 09:43:07:437 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 09:43:07:437 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:44:04:444 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 09:44:04:444 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 09:44:04:444 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:48:54:4854 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 09:48:54:4854 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:49:43:4943 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 09:49:43:4943 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:51:05:515 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 09:51:05:515 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:51:32:5132 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 09:51:32:5132 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:52:07:527 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 09:52:07:527 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:52:15:5215 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 09:52:15:5215 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 09:53:02:532 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 09:53:02:532 - [32minfo[39m: [32mAplicação esá funcionando na porta: 3000[39m
+2022-07-25 10:01:08:18 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 10:01:08:18 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 10:03:16:316 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 10:03:16:316 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 10:03:28:328 - [35mhttp[39m: [35mGET /api/teste 200 12 - 3.467 ms[39m
+[35m[39m
+2022-07-25 10:36:51:3651 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 10:36:51:3651 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 10:36:51:3651 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 10:57:25:5725 - [35mhttp[39m: [35mGET /api/api/movie 404 152 - 5.714 ms[39m
+[35m[39m
+2022-07-25 10:57:52:5752 - [35mhttp[39m: [35mGET /api/movie 404 148 - 3.404 ms[39m
+[35m[39m
+2022-07-25 10:58:08:588 - [35mhttp[39m: [35mGET /api/movie 404 148 - 1.149 ms[39m
+[35m[39m
+2022-07-25 10:59:29:5929 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 10:59:29:5929 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 10:59:29:5929 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 10:59:38:5938 - [35mhttp[39m: [35mGET /api/movie 404 148 - 9.075 ms[39m
+[35m[39m
+2022-07-25 11:00:05:05 - [35mhttp[39m: [35mPOST /api/movie 200 22 - 7.868 ms[39m
+[35m[39m
+2022-07-25 11:02:02:22 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 11:02:02:22 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 11:02:02:22 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 11:05:39:539 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 11:05:39:539 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 11:05:39:539 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 11:07:57:757 - [31merror[39m: [31mErro no sistema: Operation `moveis.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 11:09:38:938 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 11:09:50:950 - [31merror[39m: [31mErro no sistema: Operation `moveis.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 11:10:24:1024 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 11:22:07:227 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 11:22:11:2211 - [31merror[39m: [31mErro no sistema: Operation `moveis.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 11:49:16:4916 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 11:49:16:4916 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 11:49:16:4916 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 11:50:01:501 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 11:50:05:505 - [31merror[39m: [31mErro no sistema: Operation `moveis.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 11:51:35:5135 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 11:51:35:5135 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 11:51:35:5135 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 11:53:29:5329 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 11:53:34:5334 - [31merror[39m: [31mErro no sistema: Operation `moveis.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 11:54:45:5445 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 11:54:51:5451 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 11:54:51:5451 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 11:54:51:5451 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 11:55:08:558 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 11:57:30:5730 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 11:57:37:5737 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 12:04:55:455 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 12:04:55:455 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 12:04:55:455 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 12:05:54:554 - [35mhttp[39m: [35mGET /api/teste 200 11 - 5.484 ms[39m
+[35m[39m
+2022-07-25 12:05:56:556 - [35mhttp[39m: [35mGET /api/teste 200 11 - 2.024 ms[39m
+[35m[39m
+2022-07-25 12:06:00:60 - [35mhttp[39m: [35mPOST /api/teste 404 149 - 3.837 ms[39m
+[35m[39m
+2022-07-25 12:06:15:615 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 12:06:15:615 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 12:06:15:615 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 12:06:32:632 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 12:06:41:641 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 12:14:40:1440 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 15:37:33:3733 - [31merror[39m: [31mNão foi possível conectar![39m
+2022-07-25 15:37:33:3733 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/[39m
+2022-07-25 15:37:33:3733 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 15:39:50:3950 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-07-25 15:39:50:3950 - [31merror[39m: [31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2022-07-25 15:43:30:4330 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 15:43:30:4330 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 15:44:05:445 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 15:44:05:445 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 15:44:16:4416 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 15:44:16:4416 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 15:44:26:4426 - [35mhttp[39m: [35mPOST /api/movie 201 173 - 42.157 ms[39m
+[35m[39m
+2022-07-25 15:48:40:4840 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 15:48:40:4840 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 15:49:00:490 - [35mhttp[39m: [35mPOST /api/movie 422 49 - 6.972 ms[39m
+[35m[39m
+2022-07-25 15:50:57:5057 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 15:50:57:5057 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:15:27:1527 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:15:27:1527 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:15:32:1532 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:15:32:1532 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:15:37:1537 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:15:37:1537 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:16:17:1617 - [35mhttp[39m: [35mPOST /api/movie 201 172 - 85.929 ms[39m
+[35m[39m
+2022-07-25 16:18:32:1832 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:18:32:1832 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:18:54:1854 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:18:54:1854 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:19:05:195 - [35mhttp[39m: [35mPOST /api/movie 422 56 - 7.825 ms[39m
+[35m[39m
+2022-07-25 16:20:13:2013 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:20:13:2013 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:20:18:2018 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:20:18:2018 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:21:46:2146 - [35mhttp[39m: [35mPOST /api/movie 201 223 - 66.979 ms[39m
+[35m[39m
+2022-07-25 16:23:06:236 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:23:06:236 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:23:34:2334 - [35mhttp[39m: [35mPOST /api/movie 422 61 - 5.307 ms[39m
+[35m[39m
+2022-07-25 16:24:16:2416 - [35mhttp[39m: [35mPOST /api/movie 201 246 - 50.327 ms[39m
+[35m[39m
+2022-07-25 16:25:06:256 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:25:06:256 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:29:40:2940 - [35mhttp[39m: [35mPOST /api/movie 201 383 - 90.126 ms[39m
+[35m[39m
+2022-07-25 16:41:15:4115 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:41:15:4115 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:42:22:4222 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:42:22:4222 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:43:57:4357 - [35mhttp[39m: [35mGET /api/movie/62deef2477bc0a72304ea419 404 32 - 42.747 ms[39m
+[35m[39m
+2022-07-25 16:44:04:444 - [35mhttp[39m: [35mGET /api/movie/62deef2477bc0a72304ea414 - - - - ms[39m
+[35m[39m
+2022-07-25 16:44:08:448 - [35mhttp[39m: [35mGET /api/movie/62deef2477bc0a72304ea414 - - - - ms[39m
+[35m[39m
+2022-07-25 16:45:24:4524 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:45:24:4524 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:45:37:4537 - [35mhttp[39m: [35mGET /api/movie/62deef2477bc0a72304ea414 200 383 - 46.603 ms[39m
+[35m[39m
+2022-07-25 16:51:56:5156 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:51:56:5156 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:53:46:5346 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 16:53:46:5346 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 16:55:50:5550 - [35mhttp[39m: [35mGET /api//movie 200 1203 - 48.248 ms[39m
+[35m[39m
+2022-07-25 17:24:48:2448 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 17:24:48:2448 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 17:25:07:257 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 17:25:07:257 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 17:25:35:2535 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 17:25:35:2535 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 17:25:46:2546 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 17:25:46:2546 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-25 17:26:41:2641 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-25 17:26:41:2641 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:11:41:1141 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:11:41:1141 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:17:28:1728 - [35mhttp[39m: [35mDELETE /api/movie/62deef2477bc0a72304ea410 404 32 - 65.683 ms[39m
+[35m[39m
+2022-07-26 09:17:58:1758 - [35mhttp[39m: [35mGET /api//movie 200 1203 - 47.059 ms[39m
+[35m[39m
+2022-07-26 09:20:49:2049 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:20:49:2049 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:20:51:2051 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:20:51:2051 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:21:15:2115 - [35mhttp[39m: [35mGET /api//movie/62deede09f4706c1b83ebc37 200 246 - 66.236 ms[39m
+[35m[39m
+2022-07-26 09:21:36:2136 - [35mhttp[39m: [35mDELETE /api/movie/62deede09f4706c1b83ebc37 200 36 - 67.757 ms[39m
+[35m[39m
+2022-07-26 09:26:31:2631 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:26:31:2631 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:27:13:2713 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:27:13:2713 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:32:01:321 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:32:01:321 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:32:57:3257 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:32:57:3257 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:33:06:336 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:33:06:336 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:35:38:3538 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:35:38:3538 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:38:40:3840 - [35mhttp[39m: [35mPATCH /api//movie/62deede09f4706c1b83ebc37 404 32 - 52.902 ms[39m
+[35m[39m
+2022-07-26 09:39:42:3942 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:39:42:3942 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:40:09:409 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:40:09:409 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:40:20:4020 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:40:20:4020 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:40:26:4026 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:40:26:4026 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:40:38:4038 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:40:38:4038 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:40:48:4048 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:40:48:4048 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:40:52:4052 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:40:52:4052 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:41:50:4150 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:41:50:4150 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:42:25:4225 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:42:25:4225 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:44:15:4415 - [35mhttp[39m: [35mGET /api//movie/62deede09f4706c1b83ebc37 404 32 - 46.142 ms[39m
+[35m[39m
+2022-07-26 09:44:30:4430 - [35mhttp[39m: [35mGET /api//movie/ 200 956 - 78.256 ms[39m
+[35m[39m
+2022-07-26 09:44:52:4452 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-07-26 09:44:52:4452 - [35mhttp[39m: [35mPATCH /api//movie/62deef2477bc0a72304ea414 500 39 - 208.522 ms[39m
+[35m[39m
+2022-07-26 09:45:03:453 - [35mhttp[39m: [35mPATCH /api//movie/62deef2477bc0a72304ea414 200 39 - 50.383 ms[39m
+[35m[39m
+2022-07-26 09:46:49:4649 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:46:49:4649 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
+2022-07-26 09:49:37:4937 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-07-26 09:49:37:4937 - [32minfo[39m: [32mApp rodando na porta: 3000[39m
